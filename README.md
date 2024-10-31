@@ -2,7 +2,6 @@
 
 Это тестовое приложение для генерации прокси по выбранной стране. Чтобы им воспользоваться, откройте файл main.py, после чего выполните все поставленные условия, выбирите место, куда прокси сохранятся и только потом нажимайте "Сгенерировать", В противном случае вы не сможете сгенерировать прокси, не выполнив требуемые для этого условия.
 
-=-=-=-=-=-=
 The application does not support the English language at the moment; if there are future updates, translation into any language will most likely be added.
 
 <h1>Disclaimer</h1>
